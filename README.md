@@ -16,4 +16,4 @@ Considerando un desplazamiento de 3 posiciones, la A será la D, la B será la E
    - Cargar imágenes.
    - Escribir mensajes
      
-   Todo esto para que la interfaz muestre el mensaje cifrado o descifrado (utilizando cifrado césar) en función del modo, a partir del desplazamiento determinado por los coleres de la imagen.
+   Todo esto para que la interfaz muestre el mensaje cifrado o descifrado (utilizando cifrado césar) en función del modo, a partir del desplazamiento determinado por los colores de la imagen.
