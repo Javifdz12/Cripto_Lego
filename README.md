@@ -15,5 +15,6 @@ Considerando un desplazamiento de 3 posiciones, la A será la D, la B será la E
    - Elegir entre 2 modos (cifrar y descifrar).
    - Cargar imágenes.
    - Escribir mensajes
+     
    Todo esto para que la interfaz muestre el mensaje cifrado o descifrado (utilizando cifrado césar) en función del modo, a partir del desplazamiento   
    determinado por los coleres de la imagen.
