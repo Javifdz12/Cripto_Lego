@@ -1,9 +1,8 @@
 # Cripto_Lego
 
-En la siguiente práctica se utilizan imágenes de piezas lego de distintos colores para cifrar y descifrar mensajes mediante cifrado césar.
+El cifrado César es uno de los métodos de cifrado más antiguos y simples conocidos, y forma parte de la categoría de cifrados de sustitución monoalfabética. En este tipo de cifrado, cada letra del texto original (llamado texto plano) es sustituida por otra letra que se encuentra un número determinado de posiciones más adelante en el alfabeto. Este número de posiciones se conoce como el "desplazamiento" o "clave". El cifrado César debe su nombre a Julio César, quien, según documentan algunas fuentes históricas, lo usaba para comunicarse con sus generales sin el riesgo de que sus mensajes fueran fácilmente comprendidos en caso de interceptación.
 
-El cifrado César es un tipo de cifrado por sustitución en el que cada letra del texto plano es reemplazada por otra que se encuentra un número fijo de posiciones adelante en el alfabeto. Nombrado por Julio César, quien utilizaba este método para enviar mensajes codificados a sus generales.
-Considerando un desplazamiento de 3 posiciones, la A será la D, la B será la E, la C será la F... Por tanto el mensaje 'hola' será 'krod'.
+En la práctica que aquí describimos, se utiliza una técnica creativa e interactiva para aplicar el cifrado César mediante el uso de imágenes de piezas de LEGO de diferentes colores. Cada color representa un desplazamiento específico en el alfabeto. Por ejemplo, una pieza roja podría representar un desplazamiento de tres posiciones (A->D, B->E, C->F...), similar al uso original del cifrado por César, mientras que una pieza azul podría representar cinco posiciones (A->F, B->G, C->H...). Este método no solo hace que el aprendizaje del cifrado sea más visual y práctico, sino que también permite una fácil personalización del cifrado y descifrado, ya que los usuarios pueden elegir combinaciones de colores para crear distintos niveles de complejidad en sus mensajes codificados.
 
 ## Pasos a seguir:
 
